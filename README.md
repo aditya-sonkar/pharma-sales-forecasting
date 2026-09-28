@@ -39,6 +39,19 @@ To accurately validate the Excel `FORECAST.ETS` model:
 
 ---
 
+## 📊 Dashboard Previews
+
+### Page 1: Executive Sales Overview
+![Executive Sales Overview](assets/page1.png)
+
+### Page 2: Category Trends & Seasonality
+![Category Trends & Seasonality](assets/page2.png)
+
+### Page 3: Demand Forecasting (ETS Model)
+![Demand Forecasting](assets/page3.png)
+
+---
+
 ## 🚀 Getting Started
 
 To reproduce the analysis locally:
